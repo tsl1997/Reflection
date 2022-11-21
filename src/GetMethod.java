@@ -72,7 +72,7 @@ public class GetMethod {
 	}
 
 	/**
-	 * 获取指定名称的公开方法
+	 * 获取指定名称的私有方法
 	 */
 	@Test
 	public void getDeclaredMethod()throws Exception {
